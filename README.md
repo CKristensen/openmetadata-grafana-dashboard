@@ -30,3 +30,6 @@ Log in to Grafana.
 Go to Create -> Import.   
 Upload the dashboard.json file.   
 Review and customize the dashboard as needed.   
+
+Note: You need to customize the dashboard to your application.   
+Treat this just as a starting template.  
