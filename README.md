@@ -33,3 +33,6 @@ Review and customize the dashboard as needed.
 
 Note: You need to customize the dashboard to your application.   
 Treat this just as a starting template.  
+
+
+![Example Dashboard](UI.png "Example Dashboard")
